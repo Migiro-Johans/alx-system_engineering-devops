@@ -12,3 +12,4 @@ The 4th script displays current directory contents in a long format
 12th script list all files in the current, parent and boot directories
 13th script identifies the type of file
 14th script is about ls symbolic_link
+15th script copies files
