@@ -14,3 +14,4 @@ The 4th script displays current directory contents in a long format
 14th script is about ls symbolic_link
 15th script copies files
 16th script moves files with uppercase to another directory
+17th script deletes files in the current working directory
