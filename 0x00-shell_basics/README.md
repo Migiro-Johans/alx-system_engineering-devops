@@ -6,3 +6,4 @@ The 4th script displays current directory contents in a long format
 6th script displays current directory contents in long format, with user and group IDs displayed numerically and hidden files (starting with .)
 7th script creates a directory named my_first_directory in /tmp
 8th script moves a file from one directory to another
+9th script deletes a file
