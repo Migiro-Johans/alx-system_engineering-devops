@@ -10,3 +10,4 @@ The 4th script displays current directory contents in a long format
 10th script deletes a directory forcefully
 11th script changes working directory to the previous one
 12th script list all files in the current, parent and boot directories
+13th script identifies the type of file
