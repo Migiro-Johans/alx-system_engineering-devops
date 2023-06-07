@@ -16,4 +16,4 @@ The 4th script displays current directory contents in a long format
 16th script moves files with uppercase to another directory
 17th script deletes files in the current working directory
 18th script makes directories in the current working directory
-
+19TH script lists all files separating them with commas
