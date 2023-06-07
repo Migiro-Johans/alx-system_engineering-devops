@@ -7,3 +7,4 @@ The 4th script displays current directory contents in a long format
 7th script creates a directory named my_first_directory in /tmp
 8th script moves a file from one directory to another
 9th script deletes a file
+10th script deletes a directory forcefully
